@@ -1,0 +1,1 @@
+This project needs vaderSentiment to run. I used pip install vaderSentiment
